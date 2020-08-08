@@ -6,7 +6,7 @@
 
 <p>
   <em>
-    I'm a software develop graduated at <a href="https://www.quixada.ufc.br/"> <b>Universidade Federal do Ceará - Campus Quixadá</b></a>. <br>
+    I'm a software developer graduated at <a href="https://www.quixada.ufc.br/"> <b>Universidade Federal do Ceará - Campus Quixadá</b></a>. <br>
   </em>  
 </p>
 
