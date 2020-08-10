@@ -1,9 +1,5 @@
 # Allef Lobo&nbsp;
 
-### Hello world!&nbsp;
-
-## About Me
-
 <p>
   <em>
     I'm a software developer graduated at <a href="https://www.quixada.ufc.br/"> <b>Universidade Federal do Ceará - Campus Quixadá</b></a>. <br>
