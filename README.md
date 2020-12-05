@@ -1,4 +1,4 @@
-# Programming Languages 🌐
+# Programming 🌐
 
 - 🔭 Know/Using
 
@@ -12,7 +12,7 @@
 
 - 🔨 Tools
 
-| <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="20" height="20"/> </a>| <a href="https://code.visualstudio.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudio_code" width="20" height="20"/> </a>| <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="apple_xcode" width="20" height="20"/> </a>
+| <a href="https://spring.io/tools" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="20" height="20"/> </a>| <a href="https://code.visualstudio.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudio_code" width="20" height="20"/> </a>| <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="apple_xcode" width="20" height="20"/> </a>
 |---|---|---|
 
 <!--
