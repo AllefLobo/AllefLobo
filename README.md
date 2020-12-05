@@ -1,5 +1,7 @@
-<p>
-## Programming Languages 🌐
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AllefLobo&show_icons=true&locale=en&theme=gotham&hide=issues,contribs" alt="AllefLobo" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AllefLobo&show_icons=true&locale=en&layout=compact&theme=gotham" alt="AllefLobo" /></p>
+  
+# Programming Languages 🌐
 
 - 🔭 Know/Using
 
