@@ -1,26 +1,20 @@
-# Programming 🌐
+# 👋 Olá, eu sou Allef Lobo
 
-> 🔭 Know/Using
->
->| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | <a href="https://nodejs.org/en/" target="_blank"> <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> </a> | <a href="https://www.typescriptlang.org" target="_blank"> <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> </a> |  <a href="https://angular.io" target="_blank"> <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"> </a> | [<img src="https://logospng.org/download/java/logo-java-512.png" alt="java" width="30">](https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html) 
->|---|---|---|---|---|
+💻 Desenvolvedor de Software
 
-> 🔨 Tools
->
->| <a href="https://spring.io/tools" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="24" height="24"/> </a>| <a href="https://code.visualstudio.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudio_code" width="24" height="24"/> </a>|
->|---|---|
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Java, JavaScript, Python
+- **Frameworks:** Spring Boot, Angular, Node.js
+- **Ferramentas:** Docker, Git, AWS 
 
-<!--
-**AllefLobo/AllefLobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📈 O que estou fazendo atualmente
+- 🌱 Estudando System Design, Go, AWS Solutions Architecty Associate, GithubCopilot
+- 🔭 Trabalhando em Itaú Unibanco
 
-Here are some ideas to get you started:
+<!-- ### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AllefLobo&show_icons=true&theme=radical) -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Onde me encontrar
+- [LinkedIn](https://www.linkedin.com/in/alleflobo)
+
+
