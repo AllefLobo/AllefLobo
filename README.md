@@ -8,7 +8,7 @@
 - **Ferramentas:** Docker, Git, AWS 
 
 ## 📈 O que estou fazendo atualmente
-- 🌱 Estudando System Design, Go, AWS Solutions Architecty Associate, GithubCopilot
+- 🌱 Estudando System Design, Go, AWS Solutions Architect Associate, GithubCopilot
 - 🔭 Trabalhando em Itaú Unibanco
 
 <!-- ### 📊 GitHub Stats
