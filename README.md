@@ -1,19 +1,19 @@
-# 👋 Olá, eu sou Allef Lobo
+# 👋 Hello, I'm Allef Lobo
 
-💻 Desenvolvedor de Software
+💻 Sofware developer
 
-## 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** Java, JavaScript, Python
+## 🛠️ Techs and Tools
+- **Languages:** Java, JavaScript, Python
 - **Frameworks:** Spring Boot, Angular, Node.js
-- **Ferramentas:** Git, AWS
+- **Tools:** Git, AWS
 
-## 📈 O que estou fazendo atualmente
+## 📈 What I'm doing right now
 - 🌱 Estudando React
 
 <!-- ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AllefLobo&show_icons=true&theme=radical) -->
 
-## 🌍 Onde me encontrar
+## 🌍 Where can you find me
 - [LinkedIn](https://www.linkedin.com/in/alleflobo)
 
 
