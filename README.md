@@ -13,7 +13,7 @@
 <!-- ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AllefLobo&show_icons=true&theme=radical) -->
 
-## 🌍 Where can you find me
+## 🌍 Where you can find me
 - [LinkedIn](https://www.linkedin.com/in/alleflobo)
 
 
