@@ -5,11 +5,10 @@
 ## 🛠️ Tecnologias e Ferramentas
 - **Linguagens:** Java, JavaScript, Python
 - **Frameworks:** Spring Boot, Angular, Node.js
-- **Ferramentas:** Docker, Git, AWS 
+- **Ferramentas:** Git, AWS
 
 ## 📈 O que estou fazendo atualmente
-- 🌱 Estudando System Design, Go, AWS Solutions Architect Associate, GithubCopilot
-- 🔭 Trabalhando em Itaú Unibanco
+- 🌱 Estudando React
 
 <!-- ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AllefLobo&show_icons=true&theme=radical) -->
