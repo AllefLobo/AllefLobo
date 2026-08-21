@@ -25,7 +25,7 @@
 
 - **Architecture & Frameworks:** Angular Elements, Micro-Frontends (MFE)
 - **Testing:** JUnit, Jest
-- **AI-Assisted Development:** GitHub Copilot, Windsurf (Claude Sonnet/Haiku/Opus), AI Skill Creation, Prompt Engineering[cite: 1]
+- **AI-Assisted Development:** GitHub Copilot, Windsurf (Claude Sonnet/Haiku/Opus), AI Skill Creation, Prompt Engineering
 
 ---
 
@@ -38,15 +38,15 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
-- **Cloud & DevOps:** AWS (S3, Lambda, EC2, SQS, CloudWatch), Docker, Terraform[cite: 1]
-- **Streaming & Messaging:** Kafka[cite: 1]
-- **Observability:** Grafana, Splunk, Datadog[cite: 1]
+- **Cloud & DevOps:** AWS (S3, Lambda, EC2, SQS, CloudWatch), Docker, Terraform
+- **Streaming & Messaging:** Kafka
+- **Observability:** Grafana, Splunk, Datadog
 
 ---
 
 ### 🌐 Languages
-- **Portuguese:** Native[cite: 1]
-- **English:** Advanced[cite: 1]
+- **Portuguese:** Native
+- **English:** Advanced
 
 ---
 
@@ -54,7 +54,5 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AllefLobo&theme=radical" alt="GitHub Profile Details" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=AllefLobo&theme=radical" alt="Top Languages" height="150" />
-</div>
 
-
+  
