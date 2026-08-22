@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm Allef Lobo</h1>
+  <h1>Allef Lobo</h1>
   <p><strong>Senior Software Engineer</strong></p>
 
   <p>
@@ -47,6 +47,8 @@
 ### 🌐 Languages
 - **Portuguese:** Native
 - **English:** Advanced
+- **Spanish:** Intermediate
+- **French:** Basic
 
 ---
 
