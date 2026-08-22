@@ -44,6 +44,15 @@
 
 ---
 
+### 📚 Currently Studying
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+- **Frontend:** React.js & Ecossistema
+- **Cloud Platform:** Microsoft Azure
+
+---
+
 ### 🌐 Languages
 - **Portuguese:** Native
 - **English:** Advanced
