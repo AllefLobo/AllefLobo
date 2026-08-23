@@ -41,8 +41,12 @@
 ### 📚 Currently Studying
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![.NET / ASP.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
+- **AI Engineering & LLMs:** AI Engineering fundamentals, LLM Application Development with **LangChain** (DeepLearning.AI)
 - **Frontend:** React.js
+- **Backend & APIs:** ASP.NET Core for Web APIs
 - **Cloud Platform:** Microsoft Azure
 
 ---
