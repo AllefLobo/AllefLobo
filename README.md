@@ -51,7 +51,6 @@
 - **Portuguese:** Native
 - **English:** Advanced
 - **Spanish:** Intermediate
-- **French:** Basic
 
 ---
 
