@@ -44,8 +44,6 @@
 
 - **AI Engineering & LLMs:** AI Engineering fundamentals, LLM Application Development with **LangChain** (DeepLearning.AI)
 - **Frontend:** React.js
-- **Backend & APIs:** ASP.NET Core for Web APIs
-- **Cloud Platform:** Microsoft Azure
 
 ---
 
