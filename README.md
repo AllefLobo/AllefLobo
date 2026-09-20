@@ -39,11 +39,10 @@
 ---
 
 ### 📚 Currently Studying
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-- **AI Engineering & LLMs:** AI Engineering fundamentals, LLM Application Development with **LangChain** (DeepLearning.AI)
-- **Frontend:** React.js
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+- Certificação da Microsoft: Desenvolvedor Associate de Aplicativos e Agentes de IA do Azure - Certifications
 
 ---
 
@@ -58,5 +57,4 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AllefLobo&theme=radical" alt="GitHub Profile Details" height="150" />
-
-  
+</div>
