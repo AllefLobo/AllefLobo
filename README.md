@@ -42,7 +42,7 @@
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 
-- Certificação da Microsoft: Desenvolvedor Associate de Aplicativos e Agentes de IA do Azure - Certifications
+- **Microsoft Certified:** Azure AI App and Agent Developer Associate
 
 ---
 
