@@ -38,14 +38,6 @@
 
 ---
 
-### 📚 Currently Studying
-
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-
-- **Microsoft Certified:** Azure AI App and Agent Developer Associate
-
----
-
 ### 🌐 Languages
 - **Portuguese:** Native
 - **English:** Advanced
